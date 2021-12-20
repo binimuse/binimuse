@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @binimuse
-- 👀 I’m interested in programming add Development
+- 👀 I’m website and mobile application developer
 
 
 <!---
