@@ -17,8 +17,5 @@ Skills: Flutter , WordPress , Git, Java, Game Development
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binimuse)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=binimuse&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/binimuse/contributions?format=svg&private=true)  
 
 
